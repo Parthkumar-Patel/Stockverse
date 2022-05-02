@@ -1,0 +1,97 @@
+/* Custom Application CSS */
+:root {
+  --myBlack: #212121;
+  --myGrey: #9e9e9e;
+}
+
+@media screen and (max-width: 1000px) and (min-width: 400px) {
+  #mynavbar a {
+    display: block;
+    background-color: var(--myBlack);
+  }
+
+  #mynavbar a:nth-child(1) {
+    margin-left: 0px;
+  }
+  .mycol {
+    background-color: var(--myBlack);
+  }
+}
+@media screen and (max-width: 400px) {
+  #mynavbar a {
+    display: block;
+    background-color: var(--myBlack);
+  }
+
+  #mynavbar a:nth-child(1) {
+    margin-left: 0px;
+  }
+  .mycol {
+    background-color: var(--myBlack);
+  }
+}
+
+@media screen and (max-width: 700px) {
+  #myWishlist {
+    margin-top: 100px;
+  }
+}
+/* 
+.header {
+  margin-top: 4px;
+  height: 40px;
+  background-color: var(--myBlack);
+  border-radius: 3px;
+  color: whitesmoke;
+} */
+
+.mycol {
+  /* border: 1px solid var(--myBlack); */
+  border-radius: 3px;
+}
+
+.text-white-smoke {
+  letter-spacing: 1px;
+  color: whitesmoke;
+}
+
+.text-white-smoke:hover {
+  letter-spacing: 1px;
+  color: var(--myGrey);
+}
+
+.accordion {
+  /* border: 1px solid var(--myBlack); */
+  border-radius: 2px;
+}
+
+.page-link {
+  color: var(--myBlack);
+}
+
+.page-link:hover {
+  color: var(--myBlack);
+  font-weight: bold;
+}
+
+table.tech-table td {
+  background-color: #d8d8d8;
+  text-align: center;
+}
+
+/* #wishlist-tab img {
+  display: inline-block;
+  position: relative;
+  right: 0%;
+  /* margin-left: 20px; */
+/* right: 0; */
+/* background-color: red; */
+/* }  */
+#wishlist-tab button {
+  width: 200px;
+  /* background-color: black; */
+}
+
+.fs-p8 {
+  font-size: 0.8rem;
+}

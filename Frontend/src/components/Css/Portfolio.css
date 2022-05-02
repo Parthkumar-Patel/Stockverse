@@ -1,0 +1,23 @@
+.pf-bg-container {
+  /* background-color: #e9ecef; */
+  background-color: white;
+}
+.pf-container {
+  min-width: 100%;
+  display: block;
+  min-height: 800px;
+}
+.table-wrapper {
+  min-height: 100px;
+  overflow: auto;
+  display: inline-block;
+}
+.searchBoxRow {
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.disabled-input-text:disabled {
+  cursor: no-drop;
+  background-color: white;
+}

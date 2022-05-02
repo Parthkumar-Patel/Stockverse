@@ -1,0 +1,47 @@
+/* Author : Pallavi Cherukupalli (B00887062) */
+
+.text{
+    font-size: xx-large;
+    text-align: center;
+}
+
+.ustable table {
+    border: 2px solid #474d5a;
+    width: 80%;
+    margin: auto;
+  }
+    
+.ustable th {
+    border-bottom: 1px solid black;
+    text-align: center;
+    border: solid;
+  }
+    
+.ustable td {
+    text-align: center;
+    border: solid;
+  }
+
+.ustable tr {
+    border: solid
+  }
+
+  input {
+    border-radius: 5px;
+  }
+
+  
+
+  .inputsection{
+    width: 90%;
+    margin: auto;
+    margin-bottom: 10px;
+  }
+
+  .statistics{
+    width: fit-content;
+    background: white;
+    margin: 10px;
+    height: 100px;
+    box-shadow: 1px 1px 1px 1px black;
+  }

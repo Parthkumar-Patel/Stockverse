@@ -1,0 +1,13 @@
+/* Author Shiv Gaurang Desai */
+.page-title-news{ 
+    text-align: center; 
+    font-size: 3rem;
+}
+.news-page-title{
+    background-color: "#e9ecef"
+}
+
+.news-block-container{
+    display: inline-block;
+    height: 100%;
+}

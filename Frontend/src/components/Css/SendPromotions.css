@@ -1,0 +1,23 @@
+.promo-custom {
+    padding: 1.5rem !important;
+    width: 100%;
+    background-color: #e9ecef !important;
+  }
+
+.promo-submit {
+    background-color: #474d5a;
+    color: white;
+    align-self: center;
+    justify-content: center;
+    float: right;
+  }
+
+.error-margin {
+    margin-left: 8 !important;
+    color: red !important;
+  }
+
+.promo-grid-custom {
+    min-height: 20vh !important;
+    padding: 2em !important;
+  }

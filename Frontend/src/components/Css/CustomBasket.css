@@ -1,0 +1,47 @@
+/* Author Shiv Gaurang Desai(B00862445)*/
+.vertical-center {
+  align-items: center;
+}
+
+.add-custom-basket {
+  background-color: #474d5a;
+  color: white;
+  float: right;
+  display: block;
+  margin-right: 3.5rem;
+}
+
+.top-file-list {
+  background-color: #e9ecef;
+  padding-top: 10;
+}
+
+.error-margin {
+  margin-left: 8 !important;
+  color: red !important;
+}
+
+.check-for-symbol-button {
+  height: 2.5em;
+  align-self: center;
+  border-radius: 100%;
+  background-color: #474d5a;
+  color: white;
+}
+
+.form-submit {
+  background-color: #474d5a;
+  color: white;
+  align-self: center;
+  justify-content: center;
+}
+
+.card-custom {
+  padding: 1.5rem !important;
+  background-color: #e9ecef !important;
+}
+
+.grid-custom {
+  min-height: 20vh !important;
+  padding: 2em !important;
+}

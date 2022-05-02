@@ -1,0 +1,25 @@
+/* Author : Pallavi Cherukupalli (B00887062) */
+.dialog-input{
+    height: 250px !important;
+    width: 550px !important;
+}
+.blogBox{
+    border: solid 1px black;
+    border-radius: 3px;
+    height: 30px;
+    width:30px;
+}
+.blogeachCard {
+    height:fit-content;
+    text-align:center;
+    margin:10px;
+    border-radius: 5px;
+    margin:auto;
+    margin-top: 30px;
+    width: 50%;
+    border: 3px solid gray;
+}
+
+.blogCon{
+    margin-top: 100px;
+}

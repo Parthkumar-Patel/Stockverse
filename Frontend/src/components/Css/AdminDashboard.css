@@ -1,0 +1,78 @@
+  .page{
+    background:#D8D8D8;
+  }
+
+  .centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+
+
+  @media screen and (max-width: 810px) {
+    .eachCard {
+        width: 150 !important;
+        height: 100px !important;
+    }
+
+  }
+
+  .eachCard {
+    width:45%;
+    height:250px;
+    background:#474d5a;
+    text-align:center;
+    margin:10px;
+    cursor: pointer;
+    box-shadow: -1px 1px #474d5a;
+    border-radius: 5px;
+    margin-top: 30px;
+  }
+
+  .eachCard:hover{
+    transform: scale(0.9);
+  }
+
+  .cardLeft {
+    float:left
+  }
+
+  .cardRight {
+      float:left
+  }
+
+  .button {
+    background-color: #aac7d6;
+    border: none;
+    color: black;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin-left:75%;
+    margin-top: 30px;
+  }
+
+  .blogButton{
+      width: 100%;
+  }
+
+  .totalCard {
+  }
+
+  .card{
+    background:#D8D8D8;
+    border:none;
+  }
+
+  .adminDashboard{
+    height: 100%;
+    position: absolute;
+    background-color: #D8D8D8;
+    width: 100%;
+    }
+
+  
