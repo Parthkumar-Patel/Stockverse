@@ -19,8 +19,8 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
-		<li><a href="#features">Features</a></li>
-		<li><a href="#architecture-and-sitemap">Architecture and Sitemap</a></li>
+	<li><a href="#architecture-and-sitemap">Architecture and Sitemap</a></li>
+	<li><a href="#features">Features</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -43,6 +43,17 @@ Stockverse is a wealth-building application that shares information about public
 	
 The URL of the deployed Frontend application: http://stockverse-front-end.herokuapp.com/
 The URL of the deployed Backend application: https://stockverse-back-end.herokuapp.com/
+
+### Architecture and Sitemap
+
+<p align="center">
+    <img src="images/Architecture.jpg"> 
+</p>
+<br />
+<p align="center">
+    <img src="images/Sitemap.jpg"> 
+</p>
+
 ### Features
 
 <p align="center">
@@ -115,15 +126,7 @@ The URL of the deployed Backend application: https://stockverse-back-end.herokua
 * User Statistics
 
 
-### Architecture and Sitemap
 
-<p align="center">
-    <img src="images/Architecture.jpg"> 
-</p>
-<br />
-<p align="center">
-    <img src="images/Sitemap.jpg"> 
-</p>
 
 ### Built With
 
