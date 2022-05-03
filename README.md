@@ -152,7 +152,7 @@ The URL of the deployed Backend application: https://stockverse-back-end.herokua
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Parthp1810/Stockverse.git
+   git clone https://github.com/Parthkumar-Patel/Stockverse.git
    ```
 2. Change directory to the folder
    ```sh
