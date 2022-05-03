@@ -137,10 +137,10 @@ The URL of the deployed Backend application: https://stockverse-back-end.herokua
 * [NodeJS](https://nodejs.org/)
 * [NPM](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 * [HerokuCLI](https://devcenter.heroku.com/articles/heroku-cli)
-* [Axios] (https://axios-http.com/docs/intro)
+* [Axios](https://axios-http.com/docs/intro)
 * [React Bootstrap](https://remotestack.io/react-bootstrap-login-register-ui-templates/)
 * [Material-UI](https://mui.com/)
-* [Font Awesome 5] (https://www.w3schools.com/icons/fontawesome5_intro.asp)
+* [Font Awesome 5](https://www.w3schools.com/icons/fontawesome5_intro.asp)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
